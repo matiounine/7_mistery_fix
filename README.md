@@ -13,7 +13,7 @@
 ```python
     from quadratic_equation import get_roots # импортируем функцию get_roots()
     ...
-    get_roots(3,4,1) # вызываем функцию и передаём параметры
+    get_roots(3,4,1) # вызываем функцию и передаём аргументы
     ...
     root1 = (-b - sqrt(discriminant)) / (2 * a)
     root2 = (-b + sqrt(discriminant)) / (2 * a)
